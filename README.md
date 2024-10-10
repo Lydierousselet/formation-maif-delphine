@@ -1,6 +1,6 @@
 # Formation GIT MAAIF BA
 ## Sommaire
-1. Généralités
+1. [Généralités] (Chapitre 1 - Généralités.md)
 2.Installation et paramétrage
 3. Bases de Git
 4. Travailler avec des dépôts existants
